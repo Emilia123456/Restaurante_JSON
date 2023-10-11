@@ -9,18 +9,18 @@
             "nombre": "Los ravioles de la nonna",
             "añoApertura": 1936,
             "Ubicación": 
-            [
-                {
+            {
+                "ubi1" : {
                     "Sede": "Casa de Emi",
                     "Latitud": 73643,
                     "Longitud": 12839
                 },
-                {  
+                "ubi2" : {  
                     "Sede": "Casa de la nonna",
                     "Latitud": 293540,
                     "Longitud": 1289139
                 }
-            ],
+            },
             "Dueño": "La nonna",
             "Logo": "imagen.jpg",
             "Menú": 
@@ -87,18 +87,19 @@
             "nombre": "La bobe ñoqui",
             "añoApertura": 1874,
             "Ubicación": 
-            [
+            {
+                "ubi1":
                 {
                     "Sede": "Cielo",
                     "Latitud": 183892,
                     "Longitud": 362824
                 },
-                {  
+                "ubi2":{  
                     "Sede": "casa de Pipa",
                     "Latitud": 838434,
                     "Longitud": 284932
                 }
-            ],
+            },
             "Dueño": "La bobe",
             "Logo": "imagen2.jpg",
             "Menú": 
@@ -156,18 +157,18 @@
             "nombre": "La abuela amasa",
             "añoApertura": 1936,
             "Ubicación": 
-            [
-                {
+            {   
+                "ubi1":{
                     "Sede": "ORT",
                     "Latitud": 73643,
                     "Longitud": 12839
                 },
-                {  
+                "ubi2":{  
                     "Sede": "Geriátrica",
                     "Latitud": 293540,
                     "Longitud": 1289139
                 }
-            ],
+            },
             "Dueño": "La abue",
             "Logo": "imagen3.jpg",
             "Menú": 
@@ -234,18 +235,18 @@
             "nombre": "Poyin",
             "añoApertura": 2017,
             "Ubicación": 
-            [
-                {
+            {
+                "ubi1":{
                     "Sede": "ORT yatay",
                     "Latitud": 843842,
                     "Longitud": 181481
                 },
-                {  
+                "ubi2":{  
                     "Sede": "ORT belgrano",
                     "Latitud": 73832,
                     "Longitud": 74397
                 }
-            ],
+            },
             "Dueño": "Hugo y Graciela",
             "Logo": "imagen4.jpg",
             "Menú": 
@@ -312,13 +313,13 @@
             "nombre": "Luchi y fer",
             "añoApertura": 200,
             "Ubicación": 
-            [
-                {
+            {
+                "ubi1":{
                     "Sede": "Unknown...",
                     "Latitud": 1,
                     "Longitud": 1
                 }
-            ],
+            },
             "Dueño": "El señor de la noche",
             "Logo": "666.jpg",
             "Menú": 
